@@ -1,0 +1,6 @@
+{
+  "name": "Food Integrated Identification",
+  "description": "智能食物识别与饮食健康管理应用，提供拍照/扫码AI食物识别、分量估算、热量与营养分析、过敏原提示、专属营养师建议与饮食日记。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
